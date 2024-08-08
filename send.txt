@@ -1,0 +1,2 @@
+Hii client!
+This file is sended by the server.
