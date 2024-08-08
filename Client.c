@@ -34,7 +34,7 @@ void receive_file(int sockfd)
         perror("[x] Error receving data");
     }
 
-    printf("[\u2714] File receive successfully\n");
+    printf("[\u2714] File received successfully\n");
 
     fclose(fp);
     close(sockfd);
